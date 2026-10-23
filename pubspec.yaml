@@ -1,0 +1,14 @@
+name: module_control_1
+description: Модульний контроль 1 — практичні завдання (Dart/Flutter).
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
